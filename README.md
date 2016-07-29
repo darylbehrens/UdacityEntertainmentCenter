@@ -34,3 +34,8 @@ entertainment_center.py
 fresh_tomatoes.py
 	This is an Udacity supplied library that creates the 
 	HTML, CSS, and javascript for the web page.
+
+
+Licsense
+------------------------------------
+https://opensource.org/licenses/Apache-2.0
